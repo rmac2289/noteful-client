@@ -104,7 +104,7 @@ class App extends Component {
           />
         )}
         <Route
-          path='/note/:note_id'
+          path='/note/:noteId'
           component={NotePageMain}
         />
         <Route
